@@ -7,7 +7,7 @@ int DIR_LEFT = 2;
 int DIR_RIGHT = 3;
 
 int size = 10;
-int fp = 10;
+int fp = 5;
 Snake snake;
 int direction = DIR_TOP;
 
